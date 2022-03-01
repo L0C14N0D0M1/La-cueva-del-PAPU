@@ -443,7 +443,7 @@ margin: 0%;
     text-decoration: none;
 }
 
-.title_mas_p {
+.title_p {
     font-size: 50px;
     margin-left: 37%;
     color: white;
@@ -454,7 +454,7 @@ margin: 0%;
     width: 200px;
     height: 300px;
     margin-left: 40px;
-    margin-top: 20px;
+    margin-top: 350px;
     border-radius: 15px;
     cursor: pointer;
 }
@@ -505,7 +505,7 @@ margin: 0%;
 .title_p3 {
     font-size: 30px;
     margin-top: -1px;
-    margin-left: 660px;
+    margin-left: 610px;
     color: white;
     cursor: pointer;
     font-family: 'Source Code Pro', monospace;
@@ -521,7 +521,6 @@ margin: 0%;
     margin-left: 950px;
     margin-top: 10px;
     border-radius: 15px;
-    cursor: pointer;
 }
 
 .title_p4 {
@@ -529,7 +528,6 @@ margin: 0%;
     margin-top: -1px;
     margin-left: 930px;
     color: white;
-    cursor: pointer;
     font-family: 'Source Code Pro', monospace;
 }
 
@@ -540,10 +538,9 @@ margin: 0%;
 .img_p5 {
     width: 200px;
     height: 300px;
-    margin-left: 1260px;
+    margin-left: 1250px;
     margin-top: 10px;
     border-radius: 15px;
-    cursor: pointer;
 }
 
 .title_p5 {
@@ -551,6 +548,5 @@ margin: 0%;
     margin-top: -1px;
     margin-left: 1310px;
     color: white;
-    cursor: pointer;
     font-family: 'Source Code Pro', monospace;
 }
