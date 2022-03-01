@@ -41,14 +41,19 @@ li {
 
 .bloque_ge {
     opacity: 0;
-    background-color: rgb(24, 24, 24,0.4);
     border-radius: 5px;
     width: 80px;
-    height: 130px;
+    height: 160px;
     position: fixed;
     margin-left: 410px;
-    margin-top: 60px;
+    margin-top: 38px;
     justify-content: center;
+}
+
+.no_im {
+    height: 50px;
+    background-color: rgba(235, 57, 57, 0.9);
+    opacity: 0;
 }
 
 .bloque_ge a {
@@ -57,20 +62,46 @@ li {
     font-family: 'Oswald', sans-serif;
 }
 
-.bloque_ge li:hover {
+.accion_ge {
+    background-color: rgb(24, 24, 24,0.4);
+}
+
+.accion_ge :hover {
+    border-radius: 5px;
+    background-color: rgb(24, 24, 24,0.9);
+}
+
+.romance_ge {
+    background-color: rgb(24, 24, 24,0.4)
+}
+
+.romance_ge:hover {
+    border-radius: 5px;
+    background-color: rgb(24, 24, 24,0.9);
+}
+
+.escolares_ge {
+    background-color: rgb(24, 24, 24,0.4);
+}
+
+.escolares_ge:hover {
     border-radius: 5px;
     background-color: rgb(24, 24, 24,0.9);
 }
 
 .bloque_ge li a {
     display: block;
-    padding: 10px 10px;
+    padding: 11px 10px;
     color: #fff;
     text-decoration: none;
 }
 
 .bloque_ge:hover  {
     opacity: 1;
+}
+
+.no_im:hover {
+    opacity: 0;
 }
 
 .menu_es {
